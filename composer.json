@@ -1,0 +1,24 @@
+{
+    "name": "gemmes-gratuites-clash-of-clans/code-de-triche-clash-of-clans-android-ios",
+    "type": "library",
+    "description": "Générateur Gemmes En ligne sur Clash of Clans pour Android et iOS 2019 - Gemmes illimités,",
+    "keywords": ["gemmes gratuit Clash of Clans","gemmes illimités Clash of Clans","comment avoir des gemmes sur Clash of Clans"],
+    "homepage": "http://gemmesgratuit.com/clashofclans/2z133",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Comment Avoir Des Gemmes en Clash of Clans illimités Gratuit Android et iOS [Générateur Gemmes illimités en Clash of Clans] 2019 CLIQUEZ ICI POUR GENERER EN LIGNE",
+            "website": "http://gemmesgratuit.com/clashroyaleastuce/?ref=si2z11",
+            "homepage": "http://gemmesgratuit.com/clashofclans/?ref=271aq",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
